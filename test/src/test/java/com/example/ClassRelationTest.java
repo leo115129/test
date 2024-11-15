@@ -1,3 +1,6 @@
+package com.example;
+
+import com.example.*;
 import org.junit.jupiter.api.Test;
 
 import java.lang.reflect.Method;

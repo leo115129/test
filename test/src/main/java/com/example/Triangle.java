@@ -1,3 +1,5 @@
+package com.example;
+
 /**
  * Triangle类表示一个三角形。
  * 它实现了Polygon接口。

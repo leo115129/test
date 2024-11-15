@@ -1,3 +1,5 @@
+package com.example;
+
 /**
  * AdapterCircle类是一个适配器，使Circle类能够像Polygon一样使用。
  *

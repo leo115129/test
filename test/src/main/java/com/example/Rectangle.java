@@ -1,3 +1,5 @@
+package com.example;
+
 /**
  * Rectangle类表示一个矩形。
  * 它实现了Polygon接口。

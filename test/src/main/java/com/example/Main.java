@@ -1,3 +1,5 @@
+package com.example;
+
 /**
  * Main类包含用于测试这些类功能的main方法。
  *

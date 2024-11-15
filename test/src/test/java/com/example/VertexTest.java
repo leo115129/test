@@ -1,3 +1,6 @@
+package com.example;
+
+import com.example.Vertex;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -7,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.*;
  */
 public class VertexTest {
     /**
-     * 测试计算两个不同顶点的距离
+     * 测试计算两个不同顶点的距离。
      */
     @Test
     void testCalcDistance_DifferentVertices() {
@@ -32,7 +35,7 @@ public class VertexTest {
     }
 
     /**
-     * 测试传入null作为参数
+     * 测试传入null作为参数//
      */
     @Test
     void testCalcDistance_NullParameter() {
